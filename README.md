@@ -8,10 +8,6 @@ Matteo De Moor <matteo.de.moor@student.hogent.be>
 
 Robbe Van Herpe <robbe.vanherpe@student.hogent.be>
 
-## Jira-project
-
-link <https://dep-g30.atlassian.net/jira/software/c/projects/SEP2324G30/boards/2/>
-
 ## Omschrijving
 
 zie later
